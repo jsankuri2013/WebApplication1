@@ -12,6 +12,7 @@
 
             My first form !!! Welcome !!!
         </div>
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/WebForm2.aspx">HyperLink</asp:HyperLink>
     </form>
 </body>
 </html>
